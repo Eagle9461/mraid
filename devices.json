@@ -1,0 +1,749 @@
+{
+"Android" : [
+		{
+			"name" : "Samsung",
+			"size" : 41,
+			"data" : [
+					{
+						"deviceName": "Galaxy S23 Ultra",
+						"osVersion": "13.0"
+					},
+					{
+						"deviceName": "Galaxy S23",
+						"osVersion": "13.0"
+					},
+					{
+						"deviceName": "Galaxy S22 Ultra",
+						"osVersion": "12.0"
+					},
+					{
+						"deviceName": "Galaxy S22 Plus",
+						"osVersion": "12.0"
+					},
+					{
+						"deviceName": "Galaxy S22",
+						"osVersion": "12.0"
+					},
+					{
+						"deviceName": "Galaxy S21",
+						"osVersion": "12.0"
+					},
+					{
+						"deviceName": "Galaxy S21 Ultra",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy S21",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy S21 Plus",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy S20",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy S20 Plus",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy S20 Ultra",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy M52",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy M32",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy A52",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy Note 20 Ultra",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy Note 20",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy A51",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy A11",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy S9 Plus",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy S10e",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy S10 Plus",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy S10",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy Note 10 Plus",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy Note 10",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy A10",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy Note 9",
+						"osVersion": "8.1"
+					},
+					{
+						"deviceName": "Galaxy J7 Prime",
+						"osVersion": "8.1"
+					},
+					{
+						"deviceName": "Galaxy S9 Plus",
+						"osVersion": "8.0"
+					},
+					{
+						"deviceName": "Galaxy S9",
+						"osVersion": "8.0"
+					},
+					{
+						"deviceName": "Galaxy Note 8",
+						"osVersion": "7.1"
+					},
+					{
+						"deviceName": "Galaxy A8",
+						"osVersion": "7.1"
+					},
+					{
+						"deviceName": "Galaxy S8",
+						"osVersion": "7.0"
+					},
+					{
+						"deviceName": "Galaxy S7",
+						"osVersion": "6.0"
+					},
+					{
+						"deviceName": "Galaxy S6",
+						"osVersion": "5.0"
+					},
+					{
+						"deviceName": "Galaxy Tab S8",
+						"osVersion": "12.0"
+					},
+					{
+						"deviceName": "Galaxy Tab S7",
+						"osVersion": "11.0"
+					},
+					{
+						"deviceName": "Galaxy Tab S7",
+						"osVersion": "10.0"
+					},
+					{
+						"deviceName": "Galaxy Tab S6",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy Tab S5e",
+						"osVersion": "9.0"
+					},
+					{
+						"deviceName": "Galaxy Tab S4",
+						"osVersion": "8.1"
+					}
+				]
+		},
+		{
+			"name" : "Google",
+			"size" : 17,
+			"data" : [
+				{
+					"deviceName": "Pixel 7 Pro",
+					"osVersion": "13.0"
+				},
+				{
+					"deviceName": "Pixel 7",
+					"osVersion": "13.0"
+				},
+				{
+					"deviceName": "Pixel 6 Pro",
+					"osVersion": "13.0"
+				},
+				{
+					"deviceName": "Pixel 6 Pro",
+					"osVersion": "12.0"
+				},
+				{
+					"deviceName": "Pixel 6",
+					"osVersion": "12.0"
+				},
+				{
+					"deviceName": "Pixel 5",
+					"osVersion": "12.0"
+				},
+				{
+					"deviceName": "Pixel 5",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "Pixel 4",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "Pixel 4 XL",
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "Pixel 4",
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "Pixel 3",
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "Pixel 3a XL",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Pixel 3a",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Pixel 3 XL",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Pixel 3",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Pixel 2",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Pixel 2",
+					"osVersion": "8.0"
+				}
+			]
+
+		},
+		{
+			"name" : "OnePlus",
+			"size" : 6,
+			"data" : [
+				{
+					"deviceName": "11R",
+					"osVersion": "13.0" 
+				},
+				{
+					"deviceName": "9",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "8",
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "7T",
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "7",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "6T",
+					"osVersion": "9.0"
+				}
+			]
+
+		},
+		{
+			"name" : "Xiaomi",
+			"size" : 4,
+			"data" : [
+				{
+					"deviceName": "Redmi Note 11",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "Redmi Note 9", 
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "Redmi Note 8", 
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Redmi Note 7",
+					"osVersion": "9.0"
+				}
+			]
+		},
+		{
+			"name" : "Motorola",
+			"size" : 4,
+			"data" : [
+				{
+					"deviceName": "Moto G71 5G",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "Moto G9 Play",
+					"osVersion": "10.0"
+				},
+				{
+					"deviceName": "Moto G7 Play",
+					"osVersion": "9.0"
+				},
+				{
+					"deviceName": "Moto X 2nd Gen",
+					"osVersion": "5.0"
+				}
+			]
+		},
+		{
+			"name" : "Vivo",
+			"size" : 3,
+			"data" : [
+				{
+					"deviceName": "Y21",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "V21",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "Y50",
+					"osVersion": "10.0"
+				}
+			]
+		},
+		{
+			"name" : "Oppo",
+			"size" : 3,
+			"data" : [
+				{
+					"deviceName": "Reno 6",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "A96",
+					"osVersion": "11.0"
+				},
+				{
+					"deviceName": "Reno 3 Pro",
+					"osVersion": "10.0"
+				}
+			]
+		},
+		{
+			"name" : "Huawei",
+			"size" : 1,
+			"data" : [
+				{
+					"deviceName": "P30",
+					"osVersion": "9.0"
+				}
+			]
+		}
+	],
+"iOs" : [
+		{
+			"name" : "iPhone",
+			"size" : 46,
+			"data" : [
+				{
+					"deviceName": "iPhone 14 Pro Max",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 14 Pro",    
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 14 Plus",   
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 14",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 12 Pro Max",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 12 Pro",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 12 Mini",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone 11 Pro Max",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone XS",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 13 Pro Max",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 13 Pro",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 13 Mini",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 13",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 11 Pro",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 11",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone XS",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone 12 Pro Max",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone 12 Pro",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone 12 Mini",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone 12",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone 11 Pro Max",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone 11",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPhone XS",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPhone 11 Pro Max",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPhone 11 Pro",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPhone 11",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPhone XS",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone XS Max",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone XR",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone XR",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone X",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPhone 8",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone 8",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPhone 8",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone 8",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPhone 8 Plus",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone 8 Plus",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPhone 7",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone 7",
+					"osVersion": "10"
+				},
+				{
+					"deviceName": "iPhone 6S",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPhone 6S",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPhone 6S Plus",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPhone SE 2020",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPhone SE 2022",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPhone SE 2020",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPhone SE",
+					"osVersion": "11"
+				}
+			]
+		},
+		{
+			"name" : "iPad",
+			"size" : 30,
+			"data" : [
+				{
+					"deviceName": "iPad Air 4",        
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPad 9th",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2022",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2020",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPad Pro 11 2022",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPad 10th",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPad Air 5",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2021",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2020",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPad Pro 11 2021",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2020",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPad Pro 11 2020",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPad 8th",
+					"osVersion": "16"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2018",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPad Mini 2021",
+					"osVersion": "15"
+				},
+				{
+					"deviceName": "iPad 8th",
+					"osVersion": "14"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2018",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPad Pro 11 2020",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPad Mini 2019",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPad Air 2019",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPad 7th",
+					"osVersion": "13"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2018",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPad Pro 11 2018",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPad Mini 2019",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPad Air 2019",
+					"osVersion": "12"
+				},
+				{
+					"deviceName": "iPad Pro 9.7 2016",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPad Pro 12.9 2017",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPad Mini 4",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPad 6th",
+					"osVersion": "11"
+				},
+				{
+					"deviceName": "iPad 5th",
+					"osVersion": "11"
+				}
+			]
+		}
+	],
+"Windows" : [
+		{     
+			"osVersion": "11"
+		},
+		{
+			"osVersion": "10"
+		},
+		{
+			"osVersion": "8.1"
+		},
+		{
+			"osVersion": "8"
+		},
+		{
+			"osVersion": "7"
+		},
+		{
+			"osVersion": "XP"
+		}
+	],
+"Mac" : [
+		{     
+			"osVersion": "Ventura"
+		},
+		{
+			"osVersion": "Monterey"
+		},
+		{
+			"osVersion": "Big Sur"
+		},
+		{
+			"osVersion": "Catalina"
+		},
+		{
+			"osVersion": "Mojave"
+		},
+		{
+			"osVersion": "High Sierra"
+		},
+		{
+			"osVersion": "Sierra"
+		},
+		{
+			"osVersion": "El Capitan"
+		},
+		{
+			"osVersion": "Yosemite"
+		},
+		{
+			"osVersion": "Mavericks"
+		},
+		{
+			"osVersion": "Mountain Lion"
+		},
+		{
+			"osVersion": "Lion"
+		},
+		{
+			"osVersion": "Snow Leopard"
+		}
+	]
+}
