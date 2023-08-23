@@ -14,8 +14,8 @@ const posturl = process.env.REACT_APP_BACKEND_URL+'event';
 export const Features = (props) => {
   const navigate = useNavigate();
   const [DeviceData, setDeviceData] = useState({});
-  const sendInfo = async (pos, devices, json) =>{
-    let res = await axios.post(posturl, {pos:pos, devices:devices, json:json});
+  const sendInfo = async (pos, devices, json, browser) =>{
+    let res = await axios.post(posturl, {pos:pos, devices:devices, json:json, browser:browser});
     if(res.data.isSucceed=="OK") navigate('result');
   }
   useEffect(async () => {

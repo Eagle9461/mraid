@@ -9,7 +9,6 @@ import * as serviceWorker from './serviceWorker';
 
 localStorage.setItem('devices',JSON.stringify([]));
 
-
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>

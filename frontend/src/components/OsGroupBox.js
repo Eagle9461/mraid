@@ -59,7 +59,7 @@ export const OsGroupBox = (props) => {
                 {
                   group.data
                   ? group.data.map((d, i) => (
-                      <Linedevice key={i} device={d}>{d.osVersion}</Linedevice>
+                      <Linedevice key={i} device={d}>{d.os+" "+d.deviceName}</Linedevice>
                       ))
                   : "Loading..."
                 }
